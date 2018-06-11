@@ -1,4 +1,4 @@
 ```bash
-mv apples.txt
+mv apples.txt ..
 
 ```
